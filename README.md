@@ -107,8 +107,8 @@ Product (Abstract Base Class)
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd fawry_assessment
+   git clone https://github.com/yusufafify/fawry_fullstack_assessment.git
+   cd fawry_fullstack_assessment
    ```
 
 2. **Install dependencies**
